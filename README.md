@@ -1,3 +1,3 @@
 # WorldCup-Analysis
 
-FIFA WorldCup analysis using machine learning and daa visualisation, on the data uptill FIFA 2014.
+FIFA WorldCup analysis using machine learning and data visualisation, on the data uptill FIFA 2014.
